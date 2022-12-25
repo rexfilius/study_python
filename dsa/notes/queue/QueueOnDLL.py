@@ -3,7 +3,7 @@ DLLs have immediate access to both the front and end of the list, they can inser
 data on either side at O(1) as well as delete data on either side at O(1).
 This makes DLLs a perfect underlying data structure for a queue.
 """
-from dsa_notes.dsa.linkedlist.DoublyLinkedList import DoublyLinkedList
+from dsa.notes.linkedlist.DoublyLinkedList import DoublyLinkedList
 
 
 class QueueOnDLL:

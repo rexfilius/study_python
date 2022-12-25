@@ -1,4 +1,4 @@
-from dsa_notes.dsa.queue.QueueOnStack import QueueOnStack
+from dsa.notes.queue.QueueOnStack import QueueOnStack
 
 # Create a QueueOnStack
 qu = QueueOnStack()

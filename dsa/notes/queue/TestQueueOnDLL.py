@@ -1,4 +1,4 @@
-from dsa_notes.dsa.queue.QueueOnDLL import QueueOnDLL
+from dsa.notes.queue.QueueOnDLL import QueueOnDLL
 
 # Create a QueueOnStack
 qu = QueueOnDLL()

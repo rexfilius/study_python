@@ -1,4 +1,4 @@
-from dsa_notes.dsa.heap.HeapMax import HeapMax
+from dsa.notes.heap.HeapMax import HeapMax
 
 # Creating a Max-Heap
 heap1 = HeapMax()

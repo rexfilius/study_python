@@ -1,4 +1,4 @@
-from dsa_notes.dsa.tree.BSTree2 import BSTree
+from dsa.notes.tree.BSTree2 import BSTree
 
 bst = BSTree(15)
 bst.insert_node(10)

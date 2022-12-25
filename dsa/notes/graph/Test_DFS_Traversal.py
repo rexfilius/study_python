@@ -1,4 +1,4 @@
-from dsa_notes.dsa.graph.DFS_Traversal import dfsGraph
+from dsa.notes.graph.DFS_Traversal import dfsGraph
 
 # Adjacency-List-style directed graph
 cGraph = {'a': ['b', 'c'],

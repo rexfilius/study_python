@@ -1,5 +1,5 @@
-from dsa_notes.dsa.heap.HeapMin import HeapMin
-from dsa_notes.dsa.heap.HeapMax import HeapMax
+from dsa.notes.heap.HeapMin import HeapMin
+from dsa.notes.heap.HeapMax import HeapMax
 
 
 # HEAP-SORT

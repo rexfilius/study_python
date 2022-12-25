@@ -1,6 +1,6 @@
-from dsa_notes.dsa.tree.BST import searchBST, \
+from dsa.notes.tree.BST import searchBST, \
     searchBSTRecursive, deleteBST, isEmptyBST, bfsBST
-from dsa_notes.dsa.tree.BSTree import BSTree
+from dsa.notes.tree.BSTree import BSTree
 
 values = (8, 3, 6, 1, 10, 14, 13, 4, 7)
 bst = BSTree(8)

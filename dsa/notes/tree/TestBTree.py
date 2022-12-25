@@ -1,4 +1,4 @@
-from dsa_notes.dsa.tree.BTree import BinaryTree
+from dsa.notes.tree.BTree import BinaryTree
 
 # tree = BinaryTree('a')
 # print(tree)

@@ -1,4 +1,4 @@
-from dsa_notes.dsa.stack.Stack import Stack
+from dsa.notes.stack.Stack import Stack
 
 
 class SingleNode:

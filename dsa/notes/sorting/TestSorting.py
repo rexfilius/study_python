@@ -1,7 +1,7 @@
-from dsa_notes.dsa.sorting.BubbleSort import bubbleSort
-from dsa_notes.dsa.sorting.InsertionSort import insertionSort
-from dsa_notes.dsa.sorting.SelectionSort import selectionSort
-from dsa_notes.dsa.sorting.HeapSort import heapSortAscend, heapSortDescend
+from dsa.notes.sorting.BubbleSort import bubbleSort
+from dsa.notes.sorting.InsertionSort import insertionSort
+from dsa.notes.sorting.SelectionSort import selectionSort
+from dsa.notes.sorting.HeapSort import heapSortAscend, heapSortDescend
 
 array1 = [65, 55, 45, 35, 25, 15, 10]
 array2 = [4, 2, 6, 3, 4, 6, 2, 1]

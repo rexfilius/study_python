@@ -1,4 +1,4 @@
-from dsa_notes.dsa.linkedlist.DoublyLinkedList import DoublyLinkedList
+from dsa.notes.linkedlist.DoublyLinkedList import DoublyLinkedList
 
 # Create a DoublyLinkedList
 letters = DoublyLinkedList()

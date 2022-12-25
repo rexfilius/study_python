@@ -2,7 +2,7 @@
 # TOP LEVEL FUNCTIONS FOR A BINARY SEARCH TREE
 # -------------------------------------------------------------
 from queue import SimpleQueue
-from dsa_notes.dsa.tree.BSTree import BSTree
+from dsa.notes.tree.BSTree import BSTree
 
 
 def isEmptyBST(node: BSTree) -> bool:

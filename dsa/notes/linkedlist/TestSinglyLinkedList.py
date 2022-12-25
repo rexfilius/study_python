@@ -1,4 +1,4 @@
-from dsa_notes.dsa.linkedlist.SinglyLinkedList \
+from dsa.notes.linkedlist.SinglyLinkedList \
     import SinglyLinkedList, mergeTwoLists
 
 # Create a SinglyLinkedList

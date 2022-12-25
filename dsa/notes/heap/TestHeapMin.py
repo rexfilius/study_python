@@ -1,4 +1,4 @@
-from dsa_notes.dsa.heap.HeapMin import HeapMin
+from dsa.notes.heap.HeapMin import HeapMin
 
 # Creating a Min-Heap
 heap1 = HeapMin()

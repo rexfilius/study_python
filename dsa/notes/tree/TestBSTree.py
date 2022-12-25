@@ -1,4 +1,4 @@
-from dsa_notes.dsa.tree.BSTree import BSTree, inorderBSTree, \
+from dsa.notes.tree.BSTree import BSTree, inorderBSTree, \
     preorderBSTree, postorderBSTree, heightBSTree, greatestValueBSTree
 
 a1 = (8, 3, 6, 1, 10, 14, 13, 4, 7)
