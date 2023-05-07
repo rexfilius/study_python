@@ -50,7 +50,7 @@ class Stack:
 # -------------------------------------------
 # SPECIAL FUNCTIONS FOR A STACK [continued]
 # -------------------------------------------
-def createStackFromIterable(items) -> Stack:
+def create_stack_from_iterable(items) -> Stack:
     """Convert an existing list to a Stack"""
     stack = Stack()
     for item in items:
