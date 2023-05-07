@@ -5,7 +5,6 @@ This makes DLLs a perfect underlying data structure for a queue.
 """
 from dsa.notes.linkedlist.DoublyLinkedList import DoublyLinkedList
 
-
 class QueueOnDLL:
 
     def __init__(self):
