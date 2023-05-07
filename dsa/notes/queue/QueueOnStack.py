@@ -12,7 +12,7 @@ NOTE: the queue only cares about removal from the front and insertion at the
 back. You don't need to know what the contents are in between. If you did,
 you'd presumably use an array instead of a Queue.
 """
-from dsa.notes.stack.Stack import Stack
+from dsa.notes.stack_.stack import Stack
 
 
 class QueueOnStack:

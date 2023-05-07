@@ -1,4 +1,4 @@
-from dsa.notes.stack.Stack import Stack
+from dsa.notes.stack_.stack import Stack
 
 # Create a Stack
 stack = Stack()
@@ -25,4 +25,3 @@ print('stack - ', stack)
 stack.pop()
 stack.pop()
 print('stack; after popping twice -', stack)
-
